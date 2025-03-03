@@ -12,8 +12,8 @@ public class SwaggerConfig {
     public OpenAPI customOpenAPI() {
         return new OpenAPI()
                 .info(new Info()
-                        .title("API de Exemplo")
+                        .title("API - Teste Itaú")
                         .version("1.0")
-                        .description("Documentação da API de Exemplo com Swagger"));
+                        .description("Api para salvar transações em memória e gerar estatísticas"));
     }
 }
