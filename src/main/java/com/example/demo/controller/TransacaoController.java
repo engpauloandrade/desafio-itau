@@ -11,7 +11,7 @@ import com.example.demo.domain.TransacaoRequest;
 import java.util.List;
 
 @RestController
-@RequestMapping("v1/transacao")
+@RequestMapping("/transacao")
 public class TransacaoController {
 
     private final TransacaoService _transacaoService;
