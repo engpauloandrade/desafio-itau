@@ -1,5 +1,12 @@
 "# desafio-itau-java" 
 
+```
+Como Eng. de Software com desenvolvimento voltado para .NET, resolvi desenvolver esse desafio em Java
+para entender mais da sintaxe da linguagem.
+
+Java e C# se assemelham muito, então foi um desenvolvimento que levou umas 2hrs.
+```
+
 [Link do teste](https://github.com/rafaellins-itau/desafio-itau-vaga-99-junior/tree/main?tab=readme-ov-file)
 
 ## API
